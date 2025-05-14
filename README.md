@@ -18,7 +18,7 @@ This repository contains an analysis of sales data related to Dune merchandise, 
 
 ### Data Sources
 
-Sales Data: The primary dataset used this analysis is the "Dune Sales Data.csv" containing detaied information about each sale made by the company including all the column features.
+Sales Data: The primary dataset used in this analysis is the "Dune Sales Data.csv" containing detailed information on each sale made by the company including all the column features.
 
 ### Tools 
 - Python was used for the preparation, cleaning, analyzing and visualization of the data [download here](https://jupyter.org/)
@@ -36,12 +36,12 @@ EDA involved exploring the sales data to answer key questions, such as:
 
 1. Which Customer Age group generated highest revenue?
 2. Which Customer Gender generated the largest revenue?
-3. The top 10 States that generated the highest revenue.
-4. Which Product category that completed the most transactions.
-5. The top 10 highest transactions completed by the product sub-category
-6. The percentage of transactions completed by each payment options.
-7. Transactions completed in each month.
-8. Percentage of transaction by profit or loss
+3. The top 10 States that generated the highest revenue?
+4. Which Product category that completed the most transactions?
+5. The top 10 highest transactions completed by the product sub-category?
+6. The percentage of transactions completed by each payment options?
+7. Transactions completed in each month?
+8. Percentage of transaction by profit or loss?
 
 ### Data Analysis
 
@@ -76,7 +76,7 @@ Based on the analysis, I recommend the following actions:
 
 ### Limitations
 
-I had to remove all null values from row 34886, this is because I know they would not affect my entire data. The row affected contributed to less tha 3% of the entire dataset. I had to correct the spelling of high on the customer column. Doing this realign the data by giving a more reliable value count on the customer column.
+I had to remove all null values from row 34886, this is because I know they would not affect my entire data. The row affected contributed to less than 3% of the entire dataset. I had to correct the spelling of high on the customer column. Doing this realigned the data by giving it a more reliable value count on the customer column.
 
 ### References
 
